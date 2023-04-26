@@ -24,9 +24,8 @@ li {
 }
 .articles {
   text-align: end;
+  background-color: #279989;
 }
 .emergent {
   background-color: #44a080;
-  margin: 0;
-  padding: 0;
 }
