@@ -1,0 +1,18 @@
+body {
+  justify-content: space-between;
+}
+
+header {
+  background-color: #279989;
+  width: 95%;
+  padding: 2%;
+}
+h1,
+li {
+  font-size: large;
+
+  display: inline;
+}
+.Formularioanadir {
+  background-color: #ffc845;
+}
