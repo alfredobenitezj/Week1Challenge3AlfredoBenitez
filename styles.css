@@ -29,3 +29,9 @@ li {
 .emergent {
   background-color: #44a080;
 }
+h2 {
+  margin: 0;
+}
+ul {
+  margin: 0;
+}
