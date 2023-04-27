@@ -1,18 +1,31 @@
-body {
-  justify-content: space-between;
+* {
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
 }
-
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.menu {
+  text-align: end;
+}
 header {
   background-color: #279989;
-  width: 95%;
-  padding: 2%;
+  font-size: small;
 }
 h1,
 li {
-  font-size: large;
-
   display: inline;
 }
 .Formularioanadir {
   background-color: #ffc845;
+}
+.articles {
+  text-align: end;
+  background-color: #279989;
+}
+.emergent {
+  background-color: #44a080;
 }
